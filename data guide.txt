@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGdlk5x.jpg",
+      "title": "garden of banban 1",
+        "text_Content": "The Garden of Banban, also known as the Banbanji Garden, is a stunning traditional Japanese garden located in the city of Shimanto, Kochi Prefecture, Japan. It is considered to be one of the most beautiful gardens in the country and is known for its incredible beauty, serenity, and rich history..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGdlNUb.jpg",
+      "title": "garden of banban 2",
+        "text_Content": "The garden was first created during the Edo period (1603-1867) by the ruling Yamauchi family, who were the lords of Tosa Province. It was initially designed as a private garden and was meant to be a peaceful retreat for the family and their guests. The garden was named after a type of bamboo that grew abundantly in the area, and the name Banbanji literally means "the temple of a thousand bamboo trees.".",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGdlw0u.jpg",
+      "title": "garden of banban 3",
+        "text_Content": "The Banbanji Garden covers an area of approximately 15,000 square meters and is situated along the Shimanto River. It is divided into several sections, each with its own unique features and characteristics. The garden is designed to take visitors on a journey through a variety of natural landscapes, including waterfalls, ponds, streams, and hills..",
+        "text_Content_1": "."
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGdleJj.jpg",
+      "title": "garden of banban 4",
+        "text_Content": "One of the most striking features of the garden is the large pond located in the center. This pond is known as the "Moon-Viewing Pond" and is surrounded by lush greenery, including maple and cherry trees. The pond is home to several species of fish and aquatic plants, and is a popular spot for visitors to sit and relax..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGdlvOQ.jpg",
+      "title": "garden of banban 5",
+        "text_Content": "Another highlight of the garden is the waterfall known as "Banbanji Falls." This waterfall is located in the upper section of the garden and is fed by a small stream that flows through the grounds. The waterfall is surrounded by rocks and is known for its tranquil, meditative qualities..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGdl8bV.jpg",
+      "title": "garden of banban 6",
+        "text_Content": "In addition to the waterfall and pond, the garden also features several walking paths that wind through the various sections of the grounds. These paths are designed to take visitors on a journey through the garden, allowing them to experience the different natural landscapes and to appreciate the beauty and tranquility of the garden..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGdlUzB.jpg",
+      "title": "garden of banban 7",
+        "text_Content": "One of the most unique aspects of the Banbanji Garden is its collection of ancient stones and artifacts. Many of these stones were brought to the garden from various parts of Japan and have been carefully placed throughout the grounds to create a sense of history and connection to the past. Visitors can see stones with inscriptions dating back to the 8th century, as well as several ancient statues and lanterns..",
+        "text_Content_1": "."
 
 
 
